@@ -1,0 +1,20 @@
+{
+  "name": "vite-project",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "docs:dev": "node copyDocs.js && npx vuepress dev docs",
+    "docs:build": "node copyDocs.js && npx vuepress build docs"
+  },
+  "dependencies": {
+    "ncp": "^2.0.0",
+    "vue": "^3.2.16"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.9.3",
+    "vite": "^2.6.4",
+    "vuepress": "^2.0.0-beta.27"
+  }
+}

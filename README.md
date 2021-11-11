@@ -1,0 +1,1 @@
+# Exemplo de como documentar os componentes Vue com VuePress
