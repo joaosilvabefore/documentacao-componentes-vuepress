@@ -1,10 +1,19 @@
 export const themeData = {
+  "navbar": [
+    {
+      "text": "Home",
+      "link": "/"
+    },
+    {
+      "text": "Components",
+      "link": "/components/"
+    }
+  ],
   "locales": {
     "/": {
       "selectLanguageName": "English"
     }
   },
-  "navbar": [],
   "logo": null,
   "darkMode": true,
   "repo": null,

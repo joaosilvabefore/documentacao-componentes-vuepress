@@ -1,0 +1,13 @@
+<template><blockquote>
+<p>The Component uses flatpickr.js via the <a href="https://github.com/ankurk91/vue-flatpickr-component" target="_blank" rel="noopener noreferrer">Vue FlatPickr Component<OutboundLink/></a>.</p>
+</blockquote>
+<p><em>Example</em></p>
+<div class="language-html ext-html line-numbers-mode"><pre v-pre class="language-html"><code>  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>base-datepicker</span>
+    <span class="token attr-name">id</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>members-expiresAtDate-field<span class="token punctuation">"</span></span>
+    <span class="token attr-name">v-model</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>form.expiresAtDate<span class="token punctuation">"</span></span>
+    <span class="token attr-name">:state</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>validateState(<span class="token punctuation">'</span>form<span class="token punctuation">'</span>, <span class="token punctuation">'</span>expiresAtDate<span class="token punctuation">'</span>)<span class="token punctuation">"</span></span>
+    <span class="token attr-name">placeholder</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>Informe uma data<span class="token punctuation">"</span></span>
+    <span class="token attr-name">name</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>expiresAtDate<span class="token punctuation">"</span></span>
+    <span class="token attr-name">label</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>Data de vencimento<span class="token punctuation">"</span></span>
+  <span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>base-datepicker</span><span class="token punctuation">></span></span>
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br></div></div></template>

@@ -32,7 +32,10 @@ export const data = {
     }
   ],
   "filePathRelative": "components/BaseInput/README.md",
-  "git": {}
+  "git": {
+    "updatedTime": null,
+    "contributors": []
+  }
 }
 
 if (import.meta.webpackHot) {

@@ -1,20 +1,29 @@
 export const data = {
   "key": "v-1020f180",
   "path": "/components/",
-  "title": "",
+  "title": "Components",
   "lang": "en-US",
   "frontmatter": {},
   "excerpt": "",
   "headers": [
     {
       "level": 2,
-      "title": "Lista de componentes",
-      "slug": "lista-de-componentes",
+      "title": "Base Components",
+      "slug": "base-components",
+      "children": []
+    },
+    {
+      "level": 2,
+      "title": "Others",
+      "slug": "others",
       "children": []
     }
   ],
   "filePathRelative": "components/README.md",
-  "git": {}
+  "git": {
+    "updatedTime": null,
+    "contributors": []
+  }
 }
 
 if (import.meta.webpackHot) {
