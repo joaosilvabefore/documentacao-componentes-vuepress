@@ -2,7 +2,7 @@ export const data = {
   "key": "v-214dc736",
   "path": "/components/BaseInput/",
   "title": "Base Input",
-  "lang": "en-US",
+  "lang": "pt-BR",
   "frontmatter": {},
   "excerpt": "",
   "headers": [
@@ -33,8 +33,14 @@ export const data = {
   ],
   "filePathRelative": "components/BaseInput/README.md",
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1637782863000,
+    "contributors": [
+      {
+        "name": "Joao Batista Gomes Silva",
+        "email": "joao.silva@before.com.br",
+        "commits": 1
+      }
+    ]
   }
 }
 

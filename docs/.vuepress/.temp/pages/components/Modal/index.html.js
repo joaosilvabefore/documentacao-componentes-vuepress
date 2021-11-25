@@ -2,7 +2,7 @@ export const data = {
   "key": "v-352d5e82",
   "path": "/components/Modal/",
   "title": "",
-  "lang": "en-US",
+  "lang": "pt-BR",
   "frontmatter": {},
   "excerpt": "",
   "headers": [
@@ -15,8 +15,14 @@ export const data = {
   ],
   "filePathRelative": "components/Modal/README.md",
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1637782863000,
+    "contributors": [
+      {
+        "name": "Joao Batista Gomes Silva",
+        "email": "joao.silva@before.com.br",
+        "commits": 1
+      }
+    ]
   }
 }
 

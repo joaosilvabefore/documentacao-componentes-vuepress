@@ -2,7 +2,7 @@ export const data = {
   "key": "v-8daa1a0e",
   "path": "/",
   "title": "",
-  "lang": "en-US",
+  "lang": "pt-BR",
   "frontmatter": {
     "home": true,
     "heroText": "Before UI Kit",
@@ -29,8 +29,13 @@ export const data = {
   "headers": [],
   "filePathRelative": "README.md",
   "git": {
-    "updatedTime": 1636660073000,
+    "updatedTime": 1637782863000,
     "contributors": [
+      {
+        "name": "Joao Batista Gomes Silva",
+        "email": "joao.silva@before.com.br",
+        "commits": 1
+      },
       {
         "name": "João Batista Gomes Silva",
         "email": "joao.silva@before.com.br",

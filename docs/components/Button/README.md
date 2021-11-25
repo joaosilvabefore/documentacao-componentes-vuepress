@@ -83,3 +83,4 @@ _Example: loading button_
   Login
 </base-button>
 ```
+@[code js{1-8}](./snipets.js)

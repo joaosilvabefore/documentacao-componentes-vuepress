@@ -2,14 +2,20 @@ export const data = {
   "key": "v-c4728cda",
   "path": "/components/Chart/BarChart/",
   "title": "",
-  "lang": "en-US",
+  "lang": "pt-BR",
   "frontmatter": {},
   "excerpt": "",
   "headers": [],
   "filePathRelative": "components/Chart/BarChart/README.md",
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1637782863000,
+    "contributors": [
+      {
+        "name": "Joao Batista Gomes Silva",
+        "email": "joao.silva@before.com.br",
+        "commits": 1
+      }
+    ]
   }
 }
 

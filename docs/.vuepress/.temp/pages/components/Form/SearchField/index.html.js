@@ -2,14 +2,20 @@ export const data = {
   "key": "v-32992b30",
   "path": "/components/Form/SearchField/",
   "title": "",
-  "lang": "en-US",
+  "lang": "pt-BR",
   "frontmatter": {},
   "excerpt": "",
   "headers": [],
   "filePathRelative": "components/Form/SearchField/README.md",
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1637782863000,
+    "contributors": [
+      {
+        "name": "Joao Batista Gomes Silva",
+        "email": "joao.silva@before.com.br",
+        "commits": 1
+      }
+    ]
   }
 }
 

@@ -2,14 +2,20 @@ export const data = {
   "key": "v-5adbb257",
   "path": "/components/Form/BaseDatepicker/",
   "title": "",
-  "lang": "en-US",
+  "lang": "pt-BR",
   "frontmatter": {},
   "excerpt": "",
   "headers": [],
   "filePathRelative": "components/Form/BaseDatepicker/README.md",
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1637782863000,
+    "contributors": [
+      {
+        "name": "Joao Batista Gomes Silva",
+        "email": "joao.silva@before.com.br",
+        "commits": 1
+      }
+    ]
   }
 }
 

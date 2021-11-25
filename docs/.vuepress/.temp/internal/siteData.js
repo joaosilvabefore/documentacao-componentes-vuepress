@@ -1,8 +1,8 @@
 export const siteData = {
   "base": "/",
-  "lang": "en-US",
-  "title": "",
-  "description": "",
+  "lang": "pt-BR",
+  "title": "Before UI Kit",
+  "description": "Vue.js Components",
   "head": [],
   "locales": {}
 }
