@@ -5,10 +5,10 @@ export const pagesData = {
   "v-1020f180": () => import(/* webpackChunkName: "v-1020f180" */"C:/Users/jhonx/documentacao-componentes-vuepress/docs/.vuepress/.temp/pages/components/index.html.js").then(({ data }) => data),
   // path: /components/Avatar/
   "v-0183d296": () => import(/* webpackChunkName: "v-0183d296" */"C:/Users/jhonx/documentacao-componentes-vuepress/docs/.vuepress/.temp/pages/components/Avatar/index.html.js").then(({ data }) => data),
-  // path: /components/BaseInput/
-  "v-214dc736": () => import(/* webpackChunkName: "v-214dc736" */"C:/Users/jhonx/documentacao-componentes-vuepress/docs/.vuepress/.temp/pages/components/BaseInput/index.html.js").then(({ data }) => data),
   // path: /components/BaseTable/
   "v-335563b2": () => import(/* webpackChunkName: "v-335563b2" */"C:/Users/jhonx/documentacao-componentes-vuepress/docs/.vuepress/.temp/pages/components/BaseTable/index.html.js").then(({ data }) => data),
+  // path: /components/BaseInput/
+  "v-214dc736": () => import(/* webpackChunkName: "v-214dc736" */"C:/Users/jhonx/documentacao-componentes-vuepress/docs/.vuepress/.temp/pages/components/BaseInput/index.html.js").then(({ data }) => data),
   // path: /components/Button/
   "v-35c127dd": () => import(/* webpackChunkName: "v-35c127dd" */"C:/Users/jhonx/documentacao-componentes-vuepress/docs/.vuepress/.temp/pages/components/Button/index.html.js").then(({ data }) => data),
   // path: /components/Form/

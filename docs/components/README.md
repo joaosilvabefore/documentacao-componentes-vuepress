@@ -2,3 +2,6 @@
 
 ## Base Components 
 
+::: details
+🔥 Cuidado
+:::

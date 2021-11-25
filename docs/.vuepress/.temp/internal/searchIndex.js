@@ -35,6 +35,20 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "",
+    "headers": [
+      {
+        "level": 3,
+        "title": "How to use it",
+        "slug": "how-to-use-it",
+        "children": []
+      }
+    ],
+    "path": "/components/BaseTable/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Base Input",
     "headers": [
       {
@@ -63,20 +77,6 @@ export const searchIndex = [
       }
     ],
     "path": "/components/BaseInput/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "",
-    "headers": [
-      {
-        "level": 3,
-        "title": "How to use it",
-        "slug": "how-to-use-it",
-        "children": []
-      }
-    ],
-    "path": "/components/BaseTable/",
     "pathLocale": "/",
     "extraFields": []
   },
