@@ -11,12 +11,6 @@ export const data = {
       "title": "Base Components",
       "slug": "base-components",
       "children": []
-    },
-    {
-      "level": 2,
-      "title": "Others",
-      "slug": "others",
-      "children": []
     }
   ],
   "filePathRelative": "components/README.md",

@@ -9,10 +9,10 @@ export const pagesComponents = {
   "v-0183d296": defineAsyncComponent(() => import(/* webpackChunkName: "v-0183d296" */"C:/Users/jhonx/documentacao-componentes-vuepress/docs/.vuepress/.temp/pages/components/Avatar/index.html.vue")),
   // path: /components/BaseInput/
   "v-214dc736": defineAsyncComponent(() => import(/* webpackChunkName: "v-214dc736" */"C:/Users/jhonx/documentacao-componentes-vuepress/docs/.vuepress/.temp/pages/components/BaseInput/index.html.vue")),
-  // path: /components/Button/
-  "v-35c127dd": defineAsyncComponent(() => import(/* webpackChunkName: "v-35c127dd" */"C:/Users/jhonx/documentacao-componentes-vuepress/docs/.vuepress/.temp/pages/components/Button/index.html.vue")),
   // path: /components/BaseTable/
   "v-335563b2": defineAsyncComponent(() => import(/* webpackChunkName: "v-335563b2" */"C:/Users/jhonx/documentacao-componentes-vuepress/docs/.vuepress/.temp/pages/components/BaseTable/index.html.vue")),
+  // path: /components/Button/
+  "v-35c127dd": defineAsyncComponent(() => import(/* webpackChunkName: "v-35c127dd" */"C:/Users/jhonx/documentacao-componentes-vuepress/docs/.vuepress/.temp/pages/components/Button/index.html.vue")),
   // path: /components/Form/
   "v-74f19c8b": defineAsyncComponent(() => import(/* webpackChunkName: "v-74f19c8b" */"C:/Users/jhonx/documentacao-componentes-vuepress/docs/.vuepress/.temp/pages/components/Form/index.html.vue")),
   // path: /components/Modal/

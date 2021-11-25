@@ -14,12 +14,6 @@ export const searchIndex = [
         "title": "Base Components",
         "slug": "base-components",
         "children": []
-      },
-      {
-        "level": 2,
-        "title": "Others",
-        "slug": "others",
-        "children": []
       }
     ],
     "path": "/components/",
@@ -77,6 +71,20 @@ export const searchIndex = [
     "headers": [
       {
         "level": 3,
+        "title": "How to use it",
+        "slug": "how-to-use-it",
+        "children": []
+      }
+    ],
+    "path": "/components/BaseTable/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "",
+    "headers": [
+      {
+        "level": 3,
         "title": "How to use the BaseButton component",
         "slug": "how-to-use-the-basebutton-component",
         "children": []
@@ -89,20 +97,6 @@ export const searchIndex = [
       }
     ],
     "path": "/components/Button/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "",
-    "headers": [
-      {
-        "level": 3,
-        "title": "How to use it",
-        "slug": "how-to-use-it",
-        "children": []
-      }
-    ],
-    "path": "/components/BaseTable/",
     "pathLocale": "/",
     "extraFields": []
   },

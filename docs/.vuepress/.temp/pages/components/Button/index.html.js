@@ -21,10 +21,15 @@ export const data = {
   ],
   "filePathRelative": "components/Button/README.md",
   "git": {
-    "updatedTime": 1637782863000,
+    "updatedTime": 1637808125000,
     "contributors": [
       {
         "name": "Joao Batista Gomes Silva",
+        "email": "joao.silva@before.com.br",
+        "commits": 1
+      },
+      {
+        "name": "João Batista Gomes Silva",
         "email": "joao.silva@before.com.br",
         "commits": 1
       }
