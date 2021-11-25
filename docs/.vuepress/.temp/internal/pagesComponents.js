@@ -7,10 +7,12 @@ export const pagesComponents = {
   "v-1020f180": defineAsyncComponent(() => import(/* webpackChunkName: "v-1020f180" */"C:/Users/jhonx/documentacao-componentes-vuepress/docs/.vuepress/.temp/pages/components/index.html.vue")),
   // path: /components/Avatar/
   "v-0183d296": defineAsyncComponent(() => import(/* webpackChunkName: "v-0183d296" */"C:/Users/jhonx/documentacao-componentes-vuepress/docs/.vuepress/.temp/pages/components/Avatar/index.html.vue")),
-  // path: /components/BaseTable/
-  "v-335563b2": defineAsyncComponent(() => import(/* webpackChunkName: "v-335563b2" */"C:/Users/jhonx/documentacao-componentes-vuepress/docs/.vuepress/.temp/pages/components/BaseTable/index.html.vue")),
+  // path: /components/BaseButton/
+  "v-bb6d6868": defineAsyncComponent(() => import(/* webpackChunkName: "v-bb6d6868" */"C:/Users/jhonx/documentacao-componentes-vuepress/docs/.vuepress/.temp/pages/components/BaseButton/index.html.vue")),
   // path: /components/BaseInput/
   "v-214dc736": defineAsyncComponent(() => import(/* webpackChunkName: "v-214dc736" */"C:/Users/jhonx/documentacao-componentes-vuepress/docs/.vuepress/.temp/pages/components/BaseInput/index.html.vue")),
+  // path: /components/BaseTable/
+  "v-335563b2": defineAsyncComponent(() => import(/* webpackChunkName: "v-335563b2" */"C:/Users/jhonx/documentacao-componentes-vuepress/docs/.vuepress/.temp/pages/components/BaseTable/index.html.vue")),
   // path: /components/Button/
   "v-35c127dd": defineAsyncComponent(() => import(/* webpackChunkName: "v-35c127dd" */"C:/Users/jhonx/documentacao-componentes-vuepress/docs/.vuepress/.temp/pages/components/Button/index.html.vue")),
   // path: /components/Form/
@@ -27,10 +29,10 @@ export const pagesComponents = {
   "v-5adbb257": defineAsyncComponent(() => import(/* webpackChunkName: "v-5adbb257" */"C:/Users/jhonx/documentacao-componentes-vuepress/docs/.vuepress/.temp/pages/components/Form/BaseDatepicker/index.html.vue")),
   // path: /components/Form/BaseDateRangerPicker/
   "v-ef5bddbc": defineAsyncComponent(() => import(/* webpackChunkName: "v-ef5bddbc" */"C:/Users/jhonx/documentacao-componentes-vuepress/docs/.vuepress/.temp/pages/components/Form/BaseDateRangerPicker/index.html.vue")),
-  // path: /components/Form/BaseFormGroup/
-  "v-259f9a90": defineAsyncComponent(() => import(/* webpackChunkName: "v-259f9a90" */"C:/Users/jhonx/documentacao-componentes-vuepress/docs/.vuepress/.temp/pages/components/Form/BaseFormGroup/index.html.vue")),
   // path: /components/Form/BaseInput/
   "v-2579fac1": defineAsyncComponent(() => import(/* webpackChunkName: "v-2579fac1" */"C:/Users/jhonx/documentacao-componentes-vuepress/docs/.vuepress/.temp/pages/components/Form/BaseInput/index.html.vue")),
+  // path: /components/Form/BaseFormGroup/
+  "v-259f9a90": defineAsyncComponent(() => import(/* webpackChunkName: "v-259f9a90" */"C:/Users/jhonx/documentacao-componentes-vuepress/docs/.vuepress/.temp/pages/components/Form/BaseFormGroup/index.html.vue")),
   // path: /components/Form/BaseSelect/
   "v-e9af95d2": defineAsyncComponent(() => import(/* webpackChunkName: "v-e9af95d2" */"C:/Users/jhonx/documentacao-componentes-vuepress/docs/.vuepress/.temp/pages/components/Form/BaseSelect/index.html.vue")),
   // path: /components/Form/CopyField/

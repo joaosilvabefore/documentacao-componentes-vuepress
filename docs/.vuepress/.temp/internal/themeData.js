@@ -7,6 +7,10 @@ export const themeData = {
     {
       "text": "Components",
       "link": "/components/"
+    },
+    {
+      "text": "Patterns",
+      "link": "/patterns/"
     }
   ],
   "locales": {

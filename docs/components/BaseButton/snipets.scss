@@ -1,0 +1,12 @@
+$variants: (default: #ccc, primary: #0084ff, secondary: #e96900, success: #43A047, danger: #E53935, warning: #FFB300);
+$variantColors: (default: #333, primary: #fff, secondary: #fff, success: #fff, danger: #fff, warning: #222);
+
+@each $variantName, $color in $variants {
+  .btn-#{$variantName} {
+    background-color: $color;
+    color: map-get($variantColors, $variantName);
+    &:hover {
+      background-color: rgba($color, 0.8);
+    }
+  }
+}

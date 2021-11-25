@@ -35,16 +35,40 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "",
+    "title": "Base Button",
     "headers": [
       {
-        "level": 3,
-        "title": "How to use it",
-        "slug": "how-to-use-it",
+        "level": 2,
+        "title": "Description",
+        "slug": "description",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Examples",
+        "slug": "examples",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Props",
+        "slug": "props",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Events",
+        "slug": "events",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Styles",
+        "slug": "styles",
         "children": []
       }
     ],
-    "path": "/components/BaseTable/",
+    "path": "/components/BaseButton/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -77,6 +101,20 @@ export const searchIndex = [
       }
     ],
     "path": "/components/BaseInput/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "",
+    "headers": [
+      {
+        "level": 3,
+        "title": "How to use it",
+        "slug": "how-to-use-it",
+        "children": []
+      }
+    ],
+    "path": "/components/BaseTable/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -171,13 +209,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "",
-    "headers": [],
-    "path": "/components/Form/BaseFormGroup/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "BaseInput",
     "headers": [
       {
@@ -219,6 +250,13 @@ export const searchIndex = [
       }
     ],
     "path": "/components/Form/BaseInput/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "",
+    "headers": [],
+    "path": "/components/Form/BaseFormGroup/",
     "pathLocale": "/",
     "extraFields": []
   },

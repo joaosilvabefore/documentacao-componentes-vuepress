@@ -2,6 +2,4 @@
 
 ## Base Components 
 
-::: details
-🔥 Cuidado
-:::
+[Base Button](./BaseButton/README.md)

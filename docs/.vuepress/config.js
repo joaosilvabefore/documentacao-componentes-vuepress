@@ -12,9 +12,6 @@ module.exports = {
         '/': {
           placeholder: 'Search',
         },
-        '/zh/': {
-          placeholder: '搜索',
-        },
       },
     },
   ],
@@ -27,6 +24,10 @@ module.exports = {
       {
         text: 'Components',
         link: '/components/',
+      },
+      {
+        text: 'Patterns',
+        link: '/patterns/',
       },
     ],
   },
